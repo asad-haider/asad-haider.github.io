@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4a9cd725b2c100d6cd8e700443f341f4",
+    "revision": "2af05c2e130e206c02d2840831f87880",
     "url": "/index.html"
   },
   {
-    "revision": "e9aacc91a66b9c4c024a",
+    "revision": "14c6d7ca0568010ebca2",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "baf2994bd6d3dfea11b7",
+    "revision": "a61464045b566e1f1b08",
     "url": "/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "a8f0e0bec33532c29334",
+    "revision": "7255484ce68d03428333",
     "url": "/static/css/main.11bc0d05.chunk.css"
   },
   {
-    "revision": "5fae072d67aab917ccc1",
-    "url": "/static/js/2.ef634ebb.chunk.js"
+    "revision": "a7ea372a0b2e23dff4d0",
+    "url": "/static/js/2.59cdb4fa.chunk.js"
   },
   {
     "revision": "b045256696e9edb485ef902b6be54c14",
-    "url": "/static/js/2.ef634ebb.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.59cdb4fa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e9aacc91a66b9c4c024a",
-    "url": "/static/js/3.3bf14cc7.chunk.js"
+    "revision": "14c6d7ca0568010ebca2",
+    "url": "/static/js/3.fa06070b.chunk.js"
   },
   {
-    "revision": "baf2994bd6d3dfea11b7",
-    "url": "/static/js/4.6a9810cc.chunk.js"
+    "revision": "a61464045b566e1f1b08",
+    "url": "/static/js/4.8096cd40.chunk.js"
   },
   {
-    "revision": "a8f0e0bec33532c29334",
-    "url": "/static/js/main.4e1b59a6.chunk.js"
+    "revision": "7255484ce68d03428333",
+    "url": "/static/js/main.3fdad285.chunk.js"
   },
   {
-    "revision": "71bba05dbcd733a4c200",
-    "url": "/static/js/runtime-main.41124041.js"
+    "revision": "6bf45236a4d04e7ce114",
+    "url": "/static/js/runtime-main.41a7d56e.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -52,10 +52,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/barechatsLogo.a83dd50f.png"
   },
   {
-    "revision": "47a7a717679b640ceb1b05d38c480a61",
-    "url": "/static/media/codeInLogo.47a7a717.webp"
-  },
-  {
     "revision": "4f5e76afe0de9272157c3130b956065f",
     "url": "/static/media/collegeLogo.4f5e76af.jpeg"
   },
@@ -66,10 +62,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/static/media/developerActivity.59389695.svg"
-  },
-  {
-    "revision": "e79c639294c805688be731921368c8f8",
-    "url": "/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
     "revision": "b8d52d4c295016ab66601e976f379b43",
